@@ -1,8 +1,9 @@
 Hello!
+
 With this code you can download all the IP addresses of the country of your choice to ban unwanted partners in the torrent client.
 The file you get when you run it is formatted as .dat. The output file looks quite strange, but this is the only one that works with qBittorent.
 
-In my case, it works with 100% efficiency. The process of downloading addresses takes from 10 seconds to 5 minutes, depending off the population of the country.
+In my case, it works with 100% efficiency. The process of downloading addresses takes from 10 seconds to 5 minutes, depending of the population of the country.
 
 Method of operation:
 1. download the repo
@@ -14,5 +15,5 @@ Method of operation:
 7. load it and refresh. The torrent client should give you a feedback about the number of banned addresses
 
 ------------
-I recommend qBittorent Enhanced Edition (banned China weird leech clients by default) or regular qBittorent.
+I recommend qBittorent Enhanced Edition (banned Chinese weird leech clients by default) or regular qBittorent.
 I don't know what other clients have this option and if the .dat file format will be correct. 
